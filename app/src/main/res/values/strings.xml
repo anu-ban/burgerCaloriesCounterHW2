@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">burgerCalories</string>
+    <string name="beef_patty">Beef Patty</string>
+    <string name="lamb_patty">Lamb Patty</string>
+    <string name="ostrich_patty">Ostrich Patty</string>
+    <string name="prosciutto">Prosciutto</string>
+    <string name="asiego_cheese">Asiego Cheese</string>
+    <string name="creme_fraich">Creme Fraich</string>
+    <string name="chalories">Chalories</string>
+    <string name="todo">TODO</string>
+</resources>
